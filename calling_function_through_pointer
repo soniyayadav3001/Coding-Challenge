@@ -1,0 +1,11 @@
+#include<stdio.h>
+void addition(){
+	int a = 10 , b = 20 , c = a+b;
+	printf("\nAddition is :%d",c);
+}
+int main(){
+void(*fp)();
+fp = &addition;
+printf("\nAddress of Addition function : %d",fp);
+fp();//Calling addition function through function pointer.
+}
