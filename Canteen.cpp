@@ -10,7 +10,6 @@ int main()
   cout << "\n4. SAMOSA   Rs.12";
   cout << "\n5. COFFEE   Rs.18";
   cout << "\n6. exit";
-
   while (order != 6)
   {
     cout << "\nEnter your order:";
