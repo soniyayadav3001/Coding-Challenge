@@ -6,13 +6,10 @@ int main()
     scanf("%d", &a);
     printf("Enter the second number : ");
     scanf("%d", &b);
- 
-    max = (a > b) ? a : b;  // maximum number between a and b is stored in max
- 
+    max = (a > b) ? a : b; 
     while (max % a != 0 || max % b != 0) 
     {
             max++;
     }
-    printf("The LCM of %d and %d is %d.", a, b, max);
-    
+    printf("The LCM of %d and %d is %d.", a, b, max); 
 }
