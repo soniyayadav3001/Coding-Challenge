@@ -17,15 +17,12 @@ public:
     cout << "Distance: " << meter << " meter" << endl;
   }
 };
-
 // friend function
 int addFive(Distance d) {
   return d.meter + 5;
 }
-
 int main() {
   Distance d1(10);
-
   // call friend function
   int newDistance = addFive(d1);
 
