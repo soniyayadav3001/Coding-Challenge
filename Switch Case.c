@@ -28,6 +28,5 @@ int main(){
         default:
             printf("Not a valid day !\n");
     }
-	
     return 0;
 }
