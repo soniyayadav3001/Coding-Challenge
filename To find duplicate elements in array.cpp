@@ -13,7 +13,6 @@ int main()
             cout<<"\nEnter arr["<<i<<"] Element :: ";
                 cin>>a[i];
         }
-
   cout<<"\nStored Data in Array :: \n\n";
 
   for(i=0;i<size;i++)
@@ -32,8 +31,6 @@ int main()
     }
    }
    }
-
   cout<<"\n";
-
   return 0;
  }
