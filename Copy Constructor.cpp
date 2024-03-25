@@ -11,7 +11,7 @@ class Student{
 		Student(Student &s){		//Copy Constructor
 			age=s.age;
 			marks=s.marks;
-		}
+		} 
 		void display(){
 			cout<<" Age is "<<age<<endl;
 			cout<<" Marks is "<<marks<<endl;
