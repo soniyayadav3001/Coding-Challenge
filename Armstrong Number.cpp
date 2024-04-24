@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int main() {
     int num, originalNum, remainder, result = 0;
     cout << "Enter a three-digit integer: ";
