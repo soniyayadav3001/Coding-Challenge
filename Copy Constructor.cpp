@@ -16,7 +16,7 @@ class Student{
 			cout<<" Age is "<<age<<endl;
 			cout<<" Marks is "<<marks<<endl;
 		}
-};
+}; 
 int main(){
 Student amit(18,100);
 Student ankit(amit);				//Copy Constructor Called
