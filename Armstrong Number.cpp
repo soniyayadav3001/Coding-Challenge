@@ -14,7 +14,6 @@ int main() {
         // removing last digit from the orignal number
         originalNum /= 10;
     }
-
     if (result == num)
         cout << num << " is an Armstrong number.";
     else
