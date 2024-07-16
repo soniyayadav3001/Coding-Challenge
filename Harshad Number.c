@@ -14,7 +14,7 @@ int main()
     }
     if(n%sum == 0)
         printf("%d is a harshad number", n);
-    else
+    else 
         printf("%d is not a harshad number", n);
     return 0;
 }
