@@ -11,6 +11,6 @@ int main(){
 	printf("\n The result of (a>b)&&(b==c) : %d",d );//AND operator
 	d=(!(b==c));
 	printf("\n The result of !(b==c) : %d",d );//NOT operator	
-	
+
 	return 0;
 }
