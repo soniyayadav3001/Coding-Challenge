@@ -3,7 +3,6 @@ using namespace std;
 class Distance {
 private:
   int meter;
-
   // friend function
   friend int addFive(Distance);
 
