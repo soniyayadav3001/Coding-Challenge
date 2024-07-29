@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int main() {
   // Get the number of rows and columns from the user
   int rows, cols;
