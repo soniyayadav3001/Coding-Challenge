@@ -10,6 +10,5 @@ int main() {
   cin >> r;
   float si = (p * t * r) / 100;
   cout << "The simple interest is: " << si << endl;
-
   return 0;
 }
