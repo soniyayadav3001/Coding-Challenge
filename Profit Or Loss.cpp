@@ -9,7 +9,7 @@ int main()
   cin >> cp;
   cout << "Enter the selling price: ";
   cin >> sp;
-
+ 
   if (sp > cp)
   {
     profit = sp - cp;
