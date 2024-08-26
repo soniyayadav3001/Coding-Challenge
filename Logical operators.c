@@ -13,4 +13,4 @@ int main(){
 	printf("\n The result of !(b==c) : %d",d );//NOT operator	
 
 	return 0;
-}
+} 
