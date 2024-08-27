@@ -8,7 +8,7 @@ class Company{
     }
     void getdata(){
         cout << "Total salary is : " << salary << endl;
-    }
+    } 
 };
 int main() {
     Company obj;
