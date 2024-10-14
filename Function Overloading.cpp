@@ -7,7 +7,7 @@ class Addition{
     }
     void sum(int a , int b , int c){
         cout << "Sum of " << a << " , " << b <<" and "<< c << " is " << a + b + c << endl;
-    }
+    } 
 };
 int main() {
     Addition obj;
