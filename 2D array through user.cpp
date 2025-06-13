@@ -7,7 +7,6 @@ int main() {
   cin >> rows;
   cout << "Enter the number of columns: ";
   cin >> cols;
-
   // Create a 2D array
   int array[rows][cols];
 
