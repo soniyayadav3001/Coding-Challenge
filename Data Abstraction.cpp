@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-class sum{
+class sum{ 
   int num_1, num_2, total;
   public:
   int getdata(){
