@@ -9,7 +9,6 @@ int main() {
   cin >> cols;
   // Create a 2D array
   int array[rows][cols];
-
   // Get the elements of the array from the user
   for (int i = 0; i < rows; i++) {
     for (int j = 0; j < cols; j++) {
